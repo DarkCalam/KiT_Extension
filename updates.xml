@@ -3,6 +3,6 @@
   <app appid="apcoondcphnodcaepcpkfijpnoejmbkc">
     <updatecheck
       codebase="https://github.com/DarkCalam/KiT_Extension/releases/download/ext-v1.0.0/KiT_Extension_v1.0.0.crx"
-      version="1.0.0" />
+      version="1.0.1" />
   </app>
 </gupdate>
